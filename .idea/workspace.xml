@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="064bbb35-dfcd-44f7-b509-33226e81c29f" name="Changes" comment="Moved files to directory">
-      <change afterPath="$PROJECT_DIR$/Module-1/assignment2.py" afterDir="false" />
+    <list default="true" id="064bbb35-dfcd-44f7-b509-33226e81c29f" name="Changes" comment="Add assignment2">
+      <change afterPath="$PROJECT_DIR$/Module-1/Assignment3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +47,7 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Assignment3.executor": "Run",
     "Python.Module 2.executor": "Run",
     "Python.Printtaus.executor": "Run",
     "Python.assignment2.executor": "Run",
@@ -89,7 +90,7 @@
       <workItem from="1768460909276" duration="1687000" />
       <workItem from="1768462637309" duration="1822000" />
       <workItem from="1768465151535" duration="6714000" />
-      <workItem from="1768476405875" duration="1378000" />
+      <workItem from="1768476405875" duration="2784000" />
     </task>
     <task id="LOCAL−00001" summary="tehtävä 1">
       <option name="closed" value="true" />
@@ -126,7 +127,14 @@
       <option name="presentableId" value="LOCAL−00005" />
       <updated>1768469962427</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL−00006" summary="Add assignment2">
+      <option name="closed" value="true" />
+      <created>1768477931398</created>
+      <option name="number" value="LOCAL−00006" />
+      <option name="presentableId" value="LOCAL−00006" />
+      <updated>1768477931399</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,10 +144,12 @@
     <MESSAGE value="tehtävä 1" />
     <MESSAGE value="remove test" />
     <MESSAGE value="Moved files to directory" />
-    <option name="LAST_COMMIT_MESSAGE" value="Moved files to directory" />
+    <MESSAGE value="Add assignment2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add assignment2" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python_kokeilu$Printtaus.coverage" NAME="Printtaus Coverage Results" MODIFIED="1768467211706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_kokeilu$Assignment3.coverage" NAME="Assignment3 Coverage Results" MODIFIED="1768479194216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module-1" />
     <SUITE FILE_PATH="coverage/Python_kokeilu$assignment2.coverage" NAME="assignment2 Coverage Results" MODIFIED="1768477742370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module-1" />
     <SUITE FILE_PATH="coverage/Python_kokeilu$Module_2.coverage" NAME="Module 2 Coverage Results" MODIFIED="1768468397673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
