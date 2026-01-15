@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="064bbb35-dfcd-44f7-b509-33226e81c29f" name="Changes" comment="tehtävä 1" />
+    <list default="true" id="064bbb35-dfcd-44f7-b509-33226e81c29f" name="Changes" comment="tehtävä 1">
+      <change beforePath="$PROJECT_DIR$/assignment1.py" beforeDir="false" afterPath="$PROJECT_DIR$/assignment1.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +81,7 @@
       <workItem from="1768210484089" duration="995000" />
       <workItem from="1768460909276" duration="1687000" />
       <workItem from="1768462637309" duration="1822000" />
-      <workItem from="1768465151535" duration="4449000" />
+      <workItem from="1768465151535" duration="4547000" />
     </task>
     <task id="LOCAL−00001" summary="tehtävä 1">
       <option name="closed" value="true" />
@@ -88,7 +90,14 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1768469363224</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="tehtävä 1">
+      <option name="closed" value="true" />
+      <created>1768469657108</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1768469657108</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
