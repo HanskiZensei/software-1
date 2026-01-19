@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="064bbb35-dfcd-44f7-b509-33226e81c29f" name="Changes" comment="Add assignment4">
-      <change afterPath="$PROJECT_DIR$/Module-3/assignment1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module-1/Assignment3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module-2/Assignment3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module-1/assignment1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module-2/assignment1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module-1/assignment2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module-2/assignment2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module-1/assignment4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module-2/assignment4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module-1/assignment5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module-2/assignment5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module-1/kokeilu+muistio.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module-2/kokeilu+muistio.py" afterDir="false" />
+    <list default="true" id="064bbb35-dfcd-44f7-b509-33226e81c29f" name="Changes" comment="Add module-2 and module-3">
+      <change beforePath="$PROJECT_DIR$/Module-3/assignment1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module-3/assignment1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +49,7 @@
     "Python.Assignment3.executor": "Run",
     "Python.Module 2.executor": "Run",
     "Python.Printtaus.executor": "Run",
+    "Python.assignment1.executor": "Run",
     "Python.assignment2.executor": "Run",
     "Python.assignment4.executor": "Run",
     "Python.assignment5.executor": "Run",
@@ -279,7 +274,7 @@
       <workItem from="1768465151535" duration="6714000" />
       <workItem from="1768476405875" duration="7996000" />
       <workItem from="1768549000252" duration="4025000" />
-      <workItem from="1768813441935" duration="356000" />
+      <workItem from="1768813441935" duration="754000" />
     </task>
     <task id="LOCAL−00001" summary="tehtävä 1">
       <option name="closed" value="true" />
@@ -351,7 +346,14 @@
       <option name="presentableId" value="LOCAL−00010" />
       <updated>1768549107041</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL−00011" summary="Add module-2 and module-3">
+      <option name="closed" value="true" />
+      <created>1768813850323</created>
+      <option name="number" value="LOCAL−00011" />
+      <option name="presentableId" value="LOCAL−00011" />
+      <updated>1768813850323</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -365,7 +367,8 @@
     <MESSAGE value="Add assignment3" />
     <MESSAGE value="Add assignment5" />
     <MESSAGE value="Add assignment4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add assignment4" />
+    <MESSAGE value="Add module-2 and module-3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add module-2 and module-3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python_kokeilu$Printtaus.coverage" NAME="Printtaus Coverage Results" MODIFIED="1768467211706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
