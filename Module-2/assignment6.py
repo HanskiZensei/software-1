@@ -1,12 +1,14 @@
 import random
 
-code3 = ""
+three_digits = ""
 for i in range(3):
-    code3 += str(random.randint(0, 9))
+    digit = random.randint(0,9)
+    three_digits += str(digit)
 
-code4 = ""
+four_digits = ""
 for i in range(4):
-    code4 += str(random.randint(1, 6))
+    digit = random.randint(1,6)
+    four_digits += str(digit)
 
-print("3-digit code:", code3)
-print("4-digit code:", code4)
+print("3-digit code:", three_digits)
+print("4-digit code:", four_digits)

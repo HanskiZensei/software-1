@@ -27,30 +27,20 @@ print(f"Hei, sanoi:\n\t{käyttäjä} ikä:{ikä}")
 # print (liukuluku)
 # totuusarvo = true totuusarvo eli boolean
 # print (totuusarvo)
+
 import random
 
-# 3-digit code (0–9)
-code3 = ""
+three_digits = ""
+four_digits = ""
 for i in range(3):
-    code3 += str(random.randint(0, 9))
+    digit = random.randint(0,9)
+    three_digits += str(digit)
 
-# 4-digit code (1–6)
-code4 = ""
 for i in range(4):
-    code4 += str(random.randint(1, 6))
+    four_digits += str(digit)
+    digit = random.randint(1,6)
 
-print("3-digit code:", code3)
-print("4-digit code:", code4)
-
-#import random
-
-#three_digits = ""
-
-#for i in range(3):
-#    digit = random.randint(0,9)
- #   three_digits += str(digit)
-
-#print("3-digit code:"), three_digits
+print("3-digit code:", three_digits)
 
 
 
