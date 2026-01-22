@@ -1,6 +1,6 @@
 gender = input("Enter biological gender (male/female): ").lower()
 hemoglobin = float(input("Enter hemoglobin value (g/l): "))
-if gender == ("male").lower():
+if gender == "male":
     if hemoglobin <134:
         print("Your hemoglobin is low.")
     elif hemoglobin >167:
@@ -8,7 +8,7 @@ if gender == ("male").lower():
     else:
         print("Your hemoglobin is normal.")
 
-elif gender == ("female").lower():
+elif gender == "female":
     if hemoglobin <117:
         print("Your hemoglobin is low.")
     elif hemoglobin >155:
