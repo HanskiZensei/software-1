@@ -1,6 +1,7 @@
-inches = input("Enter length in inches: ")
-if inches >0:
+inches = float(input("Enter length in inches (negative value to quit): "))
+while inches >= 0:
     centimeters = inches*2.54
-    print(f"{inches:.2f} inches is {centimeters:.2f} centimeters")
+    print(f"{inches} inches is {centimeters:.2f} centimeters")
+    inches = float(input("Enter length in inches (negative value to quit): "))
 else:
     print("Program ended.")
