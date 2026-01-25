@@ -79,3 +79,12 @@ print(f"Hei, sanoi:\n\t{käyttäjä} ikä:{ikä}")
 #
 # heitot_keskimäärin = heitot_yhteensä/toistot
 # print(f"Heitot keskimäärin: {heitot_keskimäärin:6.2f}")
+
+user_input = input("Enter a number (or press Enter to quit): ")
+
+if user_input != "":
+    number = float(user_input)
+    smallest = number
+    largest = number
+    ...
+
