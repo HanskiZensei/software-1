@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="064bbb35-dfcd-44f7-b509-33226e81c29f" name="Changes" comment="Add module 5 assignment 2" />
+    <list default="true" id="064bbb35-dfcd-44f7-b509-33226e81c29f" name="Changes" comment="Add module 5 assignment 2">
+      <change afterPath="$PROJECT_DIR$/Module-5/assignment3.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -136,7 +138,7 @@
       <workItem from="1769010258489" duration="7732000" />
       <workItem from="1769090048309" duration="4083000" />
       <workItem from="1769369311626" duration="6498000" />
-      <workItem from="1769457758069" duration="7458000" />
+      <workItem from="1769457758069" duration="7863000" />
     </task>
     <task id="LOCAL−00001" summary="tehtävä 1">
       <option name="closed" value="true" />
@@ -334,7 +336,14 @@
       <option name="presentableId" value="LOCAL−00028" />
       <updated>1769465189613</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL−00029" summary="Add module 5 assignment 2">
+      <option name="closed" value="true" />
+      <created>1769465299360</created>
+      <option name="number" value="LOCAL−00029" />
+      <option name="presentableId" value="LOCAL−00029" />
+      <updated>1769465299360</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
