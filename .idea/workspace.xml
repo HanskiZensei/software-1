@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="064bbb35-dfcd-44f7-b509-33226e81c29f" name="Changes" comment="Add module 5 assignment 2">
-      <change afterPath="$PROJECT_DIR$/Module-5/assignment3.py" afterDir="false" />
+    <list default="true" id="064bbb35-dfcd-44f7-b509-33226e81c29f" name="Changes" comment="Add module 5 assignment 3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module-5/assignment3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module-5/assignment3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,38 +48,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.Assignment3.executor": "Run",
-    "Python.Module 2.executor": "Run",
-    "Python.Printtaus.executor": "Run",
-    "Python.assignment.2.executor": "Run",
-    "Python.assignment1.executor": "Run",
-    "Python.assignment2.executor": "Run",
-    "Python.assignment3.executor": "Run",
-    "Python.assignment4.executor": "Run",
-    "Python.assignment5.executor": "Run",
-    "Python.assignment6.executor": "Run",
-    "Python.kokeilu+muistio.executor": "Run",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "ai.playground.ignore.import.keys.banner.in.settings": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "Errors",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Assignment3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Module 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Printtaus.executor&quot;: &quot;Run&quot;,
+    &quot;Python.assignment.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.assignment1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.assignment2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.assignment3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.assignment4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.assignment5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.assignment6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.kokeilu+muistio.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Python-kokeilu\Module-1" />
@@ -138,7 +139,8 @@
       <workItem from="1769010258489" duration="7732000" />
       <workItem from="1769090048309" duration="4083000" />
       <workItem from="1769369311626" duration="6498000" />
-      <workItem from="1769457758069" duration="7863000" />
+      <workItem from="1769457758069" duration="7876000" />
+      <workItem from="1769465699774" duration="1095000" />
     </task>
     <task id="LOCAL−00001" summary="tehtävä 1">
       <option name="closed" value="true" />
@@ -343,7 +345,14 @@
       <option name="presentableId" value="LOCAL−00029" />
       <updated>1769465299360</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL−00030" summary="Add module 5 assignment 3">
+      <option name="closed" value="true" />
+      <created>1769465684392</created>
+      <option name="number" value="LOCAL−00030" />
+      <option name="presentableId" value="LOCAL−00030" />
+      <updated>1769465684392</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -372,16 +381,17 @@
     <MESSAGE value="Add module 4 assignment 6" />
     <MESSAGE value="Add module 5 assignment 1" />
     <MESSAGE value="Add module 5 assignment 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add module 5 assignment 2" />
+    <MESSAGE value="Add module 5 assignment 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add module 5 assignment 3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Python_kokeilu$Printtaus.coverage" NAME="Printtaus Coverage Results" MODIFIED="1768467211706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_kokeilu$assignment5.coverage" NAME="assignment5 Coverage Results" MODIFIED="1768552944304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module-1" />
     <SUITE FILE_PATH="coverage/Software_1$assignment2.coverage" NAME="assignment2 Coverage Results" MODIFIED="1769465124990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module-5" />
+    <SUITE FILE_PATH="coverage/Python_kokeilu$assignment5.coverage" NAME="assignment5 Coverage Results" MODIFIED="1768552944304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module-1" />
+    <SUITE FILE_PATH="coverage/Python_kokeilu$Printtaus.coverage" NAME="Printtaus Coverage Results" MODIFIED="1768467211706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Software_1$assignment5.coverage" NAME="assignment5 Coverage Results" MODIFIED="1769372232607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module-4" />
     <SUITE FILE_PATH="coverage/Python_kokeilu$assignment2.coverage" NAME="assignment2 Coverage Results" MODIFIED="1768477742370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module-1" />
     <SUITE FILE_PATH="coverage/Python_kokeilu$Module_2.coverage" NAME="Module 2 Coverage Results" MODIFIED="1768468397673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Software_1$assignment3.coverage" NAME="assignment3 Coverage Results" MODIFIED="1769464222012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module-4" />
+    <SUITE FILE_PATH="coverage/Software_1$assignment3.coverage" NAME="assignment3 Coverage Results" MODIFIED="1769465930630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module-5" />
     <SUITE FILE_PATH="coverage/Software_1$assignment4.coverage" NAME="assignment4 Coverage Results" MODIFIED="1769090007173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module-3" />
     <SUITE FILE_PATH="coverage/Python_kokeilu$Assignment3.coverage" NAME="Assignment3 Coverage Results" MODIFIED="1768479194216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module-1" />
     <SUITE FILE_PATH="coverage/Software_1$assignment1.coverage" NAME="assignment1 Coverage Results" MODIFIED="1769462242732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module-5" />

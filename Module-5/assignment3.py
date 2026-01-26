@@ -1,5 +1,15 @@
-integer = input("Enter an integer: ")
-if (integer % 1 == 0) and (integer % integer == 0):
-    print(f"Integer is a prime number.")
-elif (integer % 1 == 0) and (integer % 0, 10 == 0):
-    print(f"Integer is not a prime number.")
+integer = int(input("Enter an integer: "))
+
+prime = True
+
+if integer <= 1:
+    prime = False
+else:
+    for i in range (2, integer):
+        if integer % i == 0:
+            prime = False
+
+if prime:
+    print(f"{integer} is a prime number. ")
+else:
+    print(f"{integer} is not a prime number. ")
