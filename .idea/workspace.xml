@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="064bbb35-dfcd-44f7-b509-33226e81c29f" name="Changes" comment="Add module 5 assignment 1">
-      <change afterPath="$PROJECT_DIR$/Module-5/assignment2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="064bbb35-dfcd-44f7-b509-33226e81c29f" name="Changes" comment="Add module 5 assignment 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -140,7 +136,7 @@
       <workItem from="1769010258489" duration="7732000" />
       <workItem from="1769090048309" duration="4083000" />
       <workItem from="1769369311626" duration="6498000" />
-      <workItem from="1769457758069" duration="7155000" />
+      <workItem from="1769457758069" duration="7458000" />
     </task>
     <task id="LOCAL−00001" summary="tehtävä 1">
       <option name="closed" value="true" />
@@ -331,7 +327,14 @@
       <option name="presentableId" value="LOCAL−00027" />
       <updated>1769462429505</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL−00028" summary="Add module 5 assignment 2">
+      <option name="closed" value="true" />
+      <created>1769465189613</created>
+      <option name="number" value="LOCAL−00028" />
+      <option name="presentableId" value="LOCAL−00028" />
+      <updated>1769465189613</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -359,12 +362,13 @@
     <MESSAGE value="Add module 4 assignment 5" />
     <MESSAGE value="Add module 4 assignment 6" />
     <MESSAGE value="Add module 5 assignment 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add module 5 assignment 1" />
+    <MESSAGE value="Add module 5 assignment 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add module 5 assignment 2" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python_kokeilu$Printtaus.coverage" NAME="Printtaus Coverage Results" MODIFIED="1768467211706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_kokeilu$assignment5.coverage" NAME="assignment5 Coverage Results" MODIFIED="1768552944304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module-1" />
-    <SUITE FILE_PATH="coverage/Software_1$assignment2.coverage" NAME="assignment2 Coverage Results" MODIFIED="1769464812210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module-5" />
+    <SUITE FILE_PATH="coverage/Software_1$assignment2.coverage" NAME="assignment2 Coverage Results" MODIFIED="1769465124990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module-5" />
     <SUITE FILE_PATH="coverage/Software_1$assignment5.coverage" NAME="assignment5 Coverage Results" MODIFIED="1769372232607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module-4" />
     <SUITE FILE_PATH="coverage/Python_kokeilu$assignment2.coverage" NAME="assignment2 Coverage Results" MODIFIED="1768477742370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module-1" />
     <SUITE FILE_PATH="coverage/Python_kokeilu$Module_2.coverage" NAME="Module 2 Coverage Results" MODIFIED="1768468397673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
