@@ -80,4 +80,18 @@ print(f"Hei, sanoi:\n\t{käyttäjä} ikä:{ikä}")
 # heitot_keskimäärin = heitot_yhteensä/toistot
 # print(f"Heitot keskimäärin: {heitot_keskimäärin:6.2f}")
 
+# tämä ei toimi koska rolls on määritettävä ennen while looppia
+import random
 
+
+def roll_dice ():
+    noppa = random.randint (1, 6)
+    print(noppa)
+    return noppa
+
+
+roll = 1
+
+
+while roll != 6:
+    roll = roll_dice()

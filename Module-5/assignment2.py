@@ -12,4 +12,3 @@ five_numbers = numbers[:5]
 print(f"The greatest numbers in descending order: ")
 for num in five_numbers:
     print(num)
-
