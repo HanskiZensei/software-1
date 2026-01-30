@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="064bbb35-dfcd-44f7-b509-33226e81c29f" name="Changes" comment="Add module 6 assignment1">
-      <change afterPath="$PROJECT_DIR$/Module-6/assignment2.py" afterDir="false" />
+    <list default="true" id="064bbb35-dfcd-44f7-b509-33226e81c29f" name="Changes" comment="Add module 6 assignment2">
+      <change afterPath="$PROJECT_DIR$/Module-6/assignment3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -142,7 +142,7 @@
       <workItem from="1769457758069" duration="7876000" />
       <workItem from="1769465699774" duration="1095000" />
       <workItem from="1769672030061" duration="315000" />
-      <workItem from="1769672358139" duration="10570000" />
+      <workItem from="1769672358139" duration="12470000" />
     </task>
     <task id="LOCAL−00001" summary="tehtävä 1">
       <option name="closed" value="true" />
@@ -361,7 +361,14 @@
       <option name="presentableId" value="LOCAL−00031" />
       <updated>1769686224776</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL−00032" summary="Add module 6 assignment2">
+      <option name="closed" value="true" />
+      <created>1769687778766</created>
+      <option name="number" value="LOCAL−00032" />
+      <option name="presentableId" value="LOCAL−00032" />
+      <updated>1769687778766</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -403,7 +410,8 @@
     <MESSAGE value="Add module 5 assignment 2" />
     <MESSAGE value="Add module 5 assignment 3" />
     <MESSAGE value="Add module 6 assignment1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add module 6 assignment1" />
+    <MESSAGE value="Add module 6 assignment2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add module 6 assignment2" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python_kokeilu$Printtaus.coverage" NAME="Printtaus Coverage Results" MODIFIED="1768467211706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
