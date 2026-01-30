@@ -5,8 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="064bbb35-dfcd-44f7-b509-33226e81c29f" name="Changes" comment="Add module 6 assignment3">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module-6/assignment3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module-6/assignment3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module-6/assignment4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module-2/Assignment3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module-2/Assignment3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module-2/assignment1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module-2/assignment1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module-2/assignment2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module-2/assignment2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module-2/assignment4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module-2/assignment4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module-2/assignment5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module-2/assignment5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module-2/assignment6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module-2/assignment6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module-2/kokeilu+muistio.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module-2/kokeilu+muistio.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module-3/assignment1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module-3/assignment1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module-3/assignment2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module-3/assignment2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module-3/assignment3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module-3/assignment3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module-3/assignment4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module-3/assignment4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module-4/assignment.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module-4/assignment.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module-4/assignment1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module-4/assignment1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module-4/assignment3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module-4/assignment3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module-4/assignment4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module-4/assignment4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module-4/assignment5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module-4/assignment5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module-4/assignment6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module-4/assignment6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module-5/assignment2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module-5/assignment2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module-5/assignment3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module-5/assignment3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +163,7 @@
       <workItem from="1769457758069" duration="7876000" />
       <workItem from="1769465699774" duration="1095000" />
       <workItem from="1769672030061" duration="315000" />
-      <workItem from="1769672358139" duration="15785000" />
+      <workItem from="1769672358139" duration="16532000" />
     </task>
     <task id="LOCAL−00001" summary="tehtävä 1">
       <option name="closed" value="true" />
@@ -378,7 +396,14 @@
       <option name="presentableId" value="LOCAL−00033" />
       <updated>1769758487974</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL−00034" summary="Add module 6 assignment3">
+      <option name="closed" value="true" />
+      <created>1769761843252</created>
+      <option name="number" value="LOCAL−00034" />
+      <option name="presentableId" value="LOCAL−00034" />
+      <updated>1769761843252</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

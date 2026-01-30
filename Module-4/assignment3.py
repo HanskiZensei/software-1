@@ -1,8 +1,11 @@
 number_input = input("Enter a number (or press Enter to quit): ")
+
+
 if number_input != "":
     number = float(number_input)
     smallest = number
     largest = number
+
 
 while number_input != "":
     number = float(number_input)

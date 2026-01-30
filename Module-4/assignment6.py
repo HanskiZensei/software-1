@@ -1,9 +1,11 @@
 import random
 
+
 random_points = int(input("Enter how many random points to generate: "))
 
 a_circle = 0
 point_count = 0
+
 
 while point_count < random_points:
     x = random.uniform(-1, 1)
@@ -15,4 +17,4 @@ while point_count < random_points:
     point_count += 1
 
 pi_approximation = 4 * a_circle / random_points
-print (f"Approximation of pi: {pi_approximation}")
+print(f"Approximation of pi: {pi_approximation}")
