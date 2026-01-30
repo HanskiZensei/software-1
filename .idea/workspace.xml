@@ -4,27 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="064bbb35-dfcd-44f7-b509-33226e81c29f" name="Changes" comment="Add module 6 assignment3">
-      <change afterPath="$PROJECT_DIR$/Module-6/assignment4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module-2/Assignment3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module-2/Assignment3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module-2/assignment1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module-2/assignment1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module-2/assignment2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module-2/assignment2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module-2/assignment4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module-2/assignment4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module-2/assignment5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module-2/assignment5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module-2/assignment6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module-2/assignment6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module-2/kokeilu+muistio.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module-2/kokeilu+muistio.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module-3/assignment1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module-3/assignment1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module-3/assignment2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module-3/assignment2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module-3/assignment3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module-3/assignment3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module-3/assignment4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module-3/assignment4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module-4/assignment.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module-4/assignment.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module-4/assignment1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module-4/assignment1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module-4/assignment3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module-4/assignment3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module-4/assignment4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module-4/assignment4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module-4/assignment5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module-4/assignment5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module-4/assignment6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module-4/assignment6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module-5/assignment2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module-5/assignment2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module-5/assignment3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module-5/assignment3.py" afterDir="false" />
+    <list default="true" id="064bbb35-dfcd-44f7-b509-33226e81c29f" name="Changes" comment="Add module 6 assignment4, add pep8 all">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module-6/assignment4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module-6/assignment4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,7 +145,7 @@
       <workItem from="1769457758069" duration="7876000" />
       <workItem from="1769465699774" duration="1095000" />
       <workItem from="1769672030061" duration="315000" />
-      <workItem from="1769672358139" duration="16532000" />
+      <workItem from="1769672358139" duration="19037000" />
     </task>
     <task id="LOCAL−00001" summary="tehtävä 1">
       <option name="closed" value="true" />
@@ -403,7 +385,14 @@
       <option name="presentableId" value="LOCAL−00034" />
       <updated>1769761843252</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL−00035" summary="Add module 6 assignment4, add pep8 all">
+      <option name="closed" value="true" />
+      <created>1769762604043</created>
+      <option name="number" value="LOCAL−00035" />
+      <option name="presentableId" value="LOCAL−00035" />
+      <updated>1769762604043</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -421,7 +410,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="remove test" />
     <MESSAGE value="Moved files to directory" />
     <MESSAGE value="Add assignment2" />
     <MESSAGE value="Add assignment3" />
@@ -446,7 +434,8 @@
     <MESSAGE value="Add module 6 assignment1" />
     <MESSAGE value="Add module 6 assignment2" />
     <MESSAGE value="Add module 6 assignment3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add module 6 assignment3" />
+    <MESSAGE value="Add module 6 assignment4, add pep8 all" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add module 6 assignment4, add pep8 all" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python_kokeilu$Printtaus.coverage" NAME="Printtaus Coverage Results" MODIFIED="1768467211706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -456,7 +445,7 @@
     <SUITE FILE_PATH="coverage/Python_kokeilu$assignment2.coverage" NAME="assignment2 Coverage Results" MODIFIED="1768477742370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module-1" />
     <SUITE FILE_PATH="coverage/Python_kokeilu$Module_2.coverage" NAME="Module 2 Coverage Results" MODIFIED="1768468397673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Software_1$assignment3.coverage" NAME="assignment3 Coverage Results" MODIFIED="1769761717450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module-6" />
-    <SUITE FILE_PATH="coverage/Software_1$assignment4.coverage" NAME="assignment4 Coverage Results" MODIFIED="1769090007173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module-3" />
+    <SUITE FILE_PATH="coverage/Software_1$assignment4.coverage" NAME="assignment4 Coverage Results" MODIFIED="1769763990225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module-6" />
     <SUITE FILE_PATH="coverage/Python_kokeilu$Assignment3.coverage" NAME="Assignment3 Coverage Results" MODIFIED="1768479194216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module-1" />
     <SUITE FILE_PATH="coverage/Software_1$assignment1.coverage" NAME="assignment1 Coverage Results" MODIFIED="1769677599807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module-6" />
     <SUITE FILE_PATH="coverage/Python_kokeilu$assignment4.coverage" NAME="assignment4 Coverage Results" MODIFIED="1768480938866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module-1" />
