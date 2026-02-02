@@ -93,5 +93,7 @@ print(f"Hei, sanoi:\n\t{käyttäjä} ikä:{ikä}")
 # roll = 1
 
 
-while roll != 6:
-    roll = roll_dice()
+# while roll != 6:
+#     roll = roll_dice()
+#halkasija2 = input("Enter the diameter of the second pizza (cm): ")
+#hinta2 = input("Enter the price of the second pizza (euros): ")
