@@ -97,3 +97,39 @@ print(f"Hei, sanoi:\n\t{käyttäjä} ikä:{ikä}")
 #     roll = roll_dice()
 #halkasija2 = input("Enter the diameter of the second pizza (cm): ")
 #hinta2 = input("Enter the price of the second pizza (euros): ")
+# Use a dictionary to store ICAO: Airport Name pairs
+airports = {}
+
+
+def get_choice():
+    print("\nAirport Data Management")
+    print("1. Enter a new airport")
+    print("2. Fetch airport information")
+    print("3. Quit")
+    choice = input("Please choose an option (1-3): ")
+    return choice
+
+
+# Main Program Loop
+while True:
+    user_input = get_choice()
+
+    if user_input == "1":
+        icao = input("Enter the ICAO code: ").upper()
+        name = input("Enter the airport name: ")
+        airports[icao] = name
+        print(f"Airport {name} with ICAO code {icao} has been added.")
+
+    elif user_input == "2":
+        icao = input("Enter the ICAO code: ").upper()
+        if icao in airports:
+            print(f"The airport with ICAO code {icao} is {airports[icao]}.")
+        else:
+            print("ICAO code not found.")
+
+    elif user_input == "3":
+        print("Thank you for using the Airport Data Management system. Goodbye!")
+        break  # This exits the loop and the program
+
+    else:
+        print("Invalid choice, please select 1, 2, or 3.")
