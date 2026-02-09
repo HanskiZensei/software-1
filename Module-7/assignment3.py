@@ -25,7 +25,6 @@ while True:
         else:
             print(f"No airport found with ICAO code {icao}. ")
 
-
     elif user_choice == "3":
         print("Thank you for using the Airport Data Management system. Goodbye! ")
         break
