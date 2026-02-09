@@ -1,5 +1,3 @@
-from os import name
-
 import mysql.connector
 
 yhteys = mysql.connector.connect(
