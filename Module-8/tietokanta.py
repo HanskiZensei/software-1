@@ -11,7 +11,7 @@ yhteys = mysql.connector.connect(
 
 
 def hae_data():
-    sql = "Select * FROM airport LIMIT 10"
+    sql = "Select * FROM goal"
 
     kursori = yhteys.cursor()
     kursori.execute(sql)
@@ -30,5 +30,3 @@ def hae_data():
 
 
 hae_data()
-
-print("Jou Jou")

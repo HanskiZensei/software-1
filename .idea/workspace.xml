@@ -7,7 +7,7 @@
     <list default="true" id="064bbb35-dfcd-44f7-b509-33226e81c29f" name="Changes" comment="Add module 8 tietoo">
       <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module-2/kokeilu+muistio.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module-2/kokeilu+muistio.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module-8/tietokanta.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module-8/tietokanta.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
